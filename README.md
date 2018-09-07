@@ -2,7 +2,7 @@
 
 This website is a simple way of keeping up with what I am doing and my projects. It includes ways to connect with me through social media and has my full resume. Feel free to contact me if you have any questions!
 
-Link to live version: 
+[Live version](https://tingtongtang.github.io/about-me)
 
 ## Built With
 
